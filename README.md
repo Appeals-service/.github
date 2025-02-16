@@ -16,6 +16,8 @@ ________________________________________________________________________________
 - PostgreSQL
 - RabbitMQ
 - S3 (Selectel)
+- Pytest
+- Docker
 _______________________________________________________________________________________
 ### Repositories:<br>
 - [Appeals service](https://github.com/Appeals-service/Appeals_service)
