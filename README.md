@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 # Appeals service
-## Author [Moiseev Evgeniy](https://github.com/Moiseev-Evgeniy)
+## Author - [Moiseev Evgeniy](https://github.com/Moiseev-Evgeniy)
 
 ### Description
 The appeals service is designed to submit various appeals from citizens for the performance of work by various administrative structures with different areas of responsibility.
