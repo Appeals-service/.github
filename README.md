@@ -48,8 +48,8 @@ ________________________________________________________________________________
     - get user data
     - get appeals list
     - get appeal detail
-    - update appeal
-    - assign a appeal to yourself
+    - update appeal (if assigned)
+    - assign appeal to yourself
   - #### Admin
     - registration
     - login
