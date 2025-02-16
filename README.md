@@ -4,8 +4,8 @@
 ## Author - [Moiseev Evgeniy](https://github.com/Moiseev-Evgeniy)
 
 ### Description
-The appeals service is designed to submit various appeals from citizens for the performance of work by various administrative structures with different areas of responsibility.
-The service has implemented user authentication and authorization using access and refresh tokens based on JWT.
+The appeals service is designed to submit various appeals from citizens for the performance of work by various administrative structures with different areas of responsibility.<br>
+The service has implemented user authentication and authorization using access and refresh tokens based on JWT.<br>
 During the operation of the service, logging is performed and users are notified by e-mail.
 _______________________________________________________________________________________
 ### [Architecture](https://github.com/Appeals-service/start/blob/main/architecture/schema.png)
