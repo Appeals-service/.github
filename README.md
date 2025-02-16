@@ -1,4 +1,5 @@
 # Appeals service
+## Author [Moiseev Evgeniy](https://github.com/Moiseev-Evgeniy)
 
 ### [Architecture](https://github.com/Appeals-service/Appeals_service/blob/main/architecture/schema.png)
 
