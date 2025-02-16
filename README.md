@@ -23,9 +23,10 @@ ________________________________________________________________________________
 _______________________________________________________________________________________
 ### Launch<br>
 1. Clone [start repository](https://github.com/Appeals-service/start) to your PC
-2. Go to the root directory
-3. Run the command `make dc-up`
-4. Follow the link [Swagger](http://127.0.0.1:8000/docs)
+2. Create and fill all the `.env_*` files with data based on the examples
+3. Go to the root directory
+4. Run the command `make dc-up`
+5. Follow the link [Swagger](http://127.0.0.1:8000/docs)
 _______________________________________________________________________________________
 ### Functionality<br>
   - #### User
