@@ -1,7 +1,6 @@
 # Appeals service
 
-Arcitecture:<br>
-- https://github.com/Appeals-service/Appeals_service/blob/main/architecture/schema.png
+[Architecture](https://github.com/Appeals-service/Appeals_service/blob/main/architecture/schema.png)
 
 Repositories:<br>
 - Appeals service[https://github.com/Appeals-service/Appeals_service]
