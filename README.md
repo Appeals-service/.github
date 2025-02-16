@@ -12,6 +12,9 @@
 
 ## Launch<br>
 1. Clone [Appeals service](https://github.com/Appeals-service/Appeals_service) to your PC
-2. Go to the directory `docker`
+2. Go to the directory `/docker`
 3. Run the command `make dc-up`
 4. Follow the link [Swagger](http://127.0.0.1:8000/docs)
+
+## Functionality<br>
+
