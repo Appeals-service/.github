@@ -8,8 +8,7 @@
 - [Notification service](https://github.com/Appeals-service/Notification_service)
 - [Logging service](https://github.com/Appeals-service/Logging_service)
 
-links:<br>
-- http://127.0.0.1:8000/docs
+### [Swagger](http://127.0.0.1:8000/docs)
 
 ## Launch<br>
-Clone
+Clone [Appeals service](https://github.com/Appeals-service/Appeals_service)
