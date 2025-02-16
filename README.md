@@ -21,8 +21,6 @@ ________________________________________________________________________________
 - [Notification service](https://github.com/Appeals-service/Notification_service)
 - [Logging service](https://github.com/Appeals-service/Logging_service)
 _______________________________________________________________________________________
-### [Swagger](http://127.0.0.1:8000/docs)
-_______________________________________________________________________________________
 ### Launch<br>
 1. Clone [start repository](https://github.com/Appeals-service/start) to your PC
 2. Create and fill all the `.env_*` files with data based on the examples
